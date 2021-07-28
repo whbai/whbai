@@ -1,8 +1,2 @@
-
- <iframe  
- height=850 
- width=90% 
- src="https://live2d.maaz.top/"  
- frameborder=0  
- allowfullscreen>
- </iframe>
+这家伙到底有多懒啊
+[![whbai's GitHub stats](https://github-readme-stats.vercel.app/api?username=whbai)](https://github.com/anuraghazra/github-readme-stats)
