@@ -1,11 +1,6 @@
 name: Waka Readme
 
 on:
-<<<<<<< HEAD
-=======
-  push:
-    branches: ["main"]
->>>>>>> 5f425b3 ( 删去全部)
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
